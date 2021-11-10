@@ -3,7 +3,7 @@ Solution of 30 Days of Code of hackerrank
 
 Join 30 Days of Code here -> https://www.hackerrank.com/domains/tutorials/30-days-of-code
 ## Language Support
-- Python (Day 6: 0-5)
+- Python (Day 7: 0-6)
 </br></br>
 Follow on IG: https://instagram.com/solecode0 </br>
 Follow on twitter: https://twitter.com/solecode0
