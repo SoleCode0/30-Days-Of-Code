@@ -22,11 +22,11 @@ STDIN   Function
 class Difference:
     def __init__(self, a):
         self.__elements = a
-
+    # Your Code Below
     def computeDifference(self):
-        sorted_elements = sorted(self.__elements)
-        self.maximumDifference = abs(sorted_elements[-1] - sorted_elements[0])
-	# Add your code here
+        sorted_el = sorted(self.__elements)
+        self.maxDifference = abs(sorted_el[-1] - sorted_el[0])
+	# Your Code Above
 
 # End of Difference class
 
@@ -36,4 +36,4 @@ a = [int(e) for e in input().split(' ')]
 d = Difference(a)
 d.computeDifference()
 
-print(d.maximumDifference)
+print(d.maxDifference)
