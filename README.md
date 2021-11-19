@@ -3,7 +3,7 @@ Solution of 30 Days of Code of hackerrank
 
 Join 30 Days of Code here -> https://www.hackerrank.com/domains/tutorials/30-days-of-code
 ## Language Support
-- Python (Day 15: 0-14)
+- Python (Day 16: 0-15)
 - Javascript (Will be available Soon)
 
 <br><br>
