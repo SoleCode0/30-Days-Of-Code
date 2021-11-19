@@ -5,9 +5,6 @@ Join 30 Days of Code here -> https://www.hackerrank.com/domains/tutorials/30-day
 ## Language Support
 - Python (Day 16: 0-15)
 - Javascript (Will be available Soon)
-
-<br><br>
-OPEN FOR CONTRIBUTIONS
-</br></br>
+#### OPEN FOR CONTRIBUTIONS
 Follow on IG: https://instagram.com/solecode0 </br>
 Follow on twitter: https://twitter.com/solecode0
