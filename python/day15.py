@@ -42,10 +42,6 @@ T3: head -> [data=2 | n1] -> [data=3 | n2] -> [data=4 | n3] -> [data=1 | null]
 '''
 
 # Code
-class Node:
-    def __init__(self,data):
-        self.data = data
-        self.next = None 
 class Solution: 
     def display(self,head):
         current = head
@@ -64,6 +60,11 @@ class Solution:
         return head
     # Your Code Above
     
+class Node:
+    def __init__(self,data):
+        self.data = data
+        self.next = None 
+        
 mylist= Solution()
 T=int(input())
 head=None
